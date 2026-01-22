@@ -178,4 +178,3 @@ void loop() {
 
 ---
 
-## 👤 Author
