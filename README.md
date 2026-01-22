@@ -174,7 +174,7 @@ void loop() {
 
 ## 🧪 Simulation Platform
 
-- https://app.cirkitdesigner.com/
+- [https://app.cirkitdesigner.com/](https://app.cirkitdesigner.com/project/cc1bcf29-9763-441a-80d4-aea258119a0c)
 
 ---
 
